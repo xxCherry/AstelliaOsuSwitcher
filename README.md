@@ -1,0 +1,2 @@
+# AstelliaOsuSwitcher
+Simple osu! switcher
